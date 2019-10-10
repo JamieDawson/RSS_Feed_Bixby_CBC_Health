@@ -1,5 +1,5 @@
 capsule {
-  id (playground.rss_template)
+  id (jamie_dawson.rss_template)
   version (1.0.1)
   format (3)
   targets {

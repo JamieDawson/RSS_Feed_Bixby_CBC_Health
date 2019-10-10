@@ -1,9 +1,9 @@
 capsule-info {
-  display-name (RSS Template)
-  dispatch-name (RSS Template)
-  developer-name (Final Boss)
+  display-name (Important Health)
+  dispatch-name (Important Health)
+  developer-name (Jamie Dawson)
   icon-asset (icon.png)
-  description (RSS template capsule)
+  description (Important Health provides news)
   search-keywords {
     keyword (News)
     keyword (RSS)

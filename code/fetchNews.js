@@ -33,7 +33,7 @@ function buildImage(channel, i) {
 	if (!ret)
 		ret = "icon.png"
 	if (ret == "icon.png" && channel.image)
-		ret = channel.image[0].url
+		ret = channel.image.length > 1 ? channel.image[0].url : channel.image.url
 	return { url: ret }
 }
 
