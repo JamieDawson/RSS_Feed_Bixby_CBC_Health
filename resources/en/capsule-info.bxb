@@ -3,9 +3,10 @@ capsule-info {
   dispatch-name (Important Health)
   developer-name (Jamie Dawson)
   icon-asset (icon.png)
-  description (Important Health provides news)
+  description (here is the first sentence.\nthis sentence is the second one.)
   search-keywords {
     keyword (News)
-    keyword (RSS)
+    keyword (Medicine)
+    keyword (Health)
   }
 }
